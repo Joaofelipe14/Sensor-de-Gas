@@ -29,6 +29,7 @@ Configuração dos Sensores no Intercity: [Configuração no Intercity](https://
 
    ```bash
    npm install
+   npx sequelize-cli db:migrate
    node start
 
 ## Parte 3 /
