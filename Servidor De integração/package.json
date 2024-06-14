@@ -1,0 +1,20 @@
+{
+  "name": "mqtt-sensor-de-gas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "mqtt": "^5.7.0",
+    "mysql2": "^3.10.1",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "sequelize": "^6.37.3"
+  }
+}
