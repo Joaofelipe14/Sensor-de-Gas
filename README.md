@@ -25,7 +25,7 @@ Configuração dos Sensores no Intercity: [Configuração no Intercity](https://
 
 1. **Instalação das Dependências**
 
-   Execute o seguinte comando para instalar as dependências do projeto:
+   Crie e configure  o banco de dados em config/config.json, depois execute o seguinte comando para instalar as dependências do projeto:
 
    ```bash
    npm install
