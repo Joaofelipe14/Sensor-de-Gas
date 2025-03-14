@@ -40,3 +40,6 @@ Configuração dos Sensores no Intercity: [Configuração no Intercity](https://
 - Método: `POST`
 Vizualizando de dados na web,,,,
 
+
+
+#### preview
