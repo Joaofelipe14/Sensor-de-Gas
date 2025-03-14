@@ -43,3 +43,6 @@ Vizualizando de dados na web,,,,
 
 
 #### preview
+
+-  ![Imagem 1](https://raw.githubusercontent.com/Joaofelipe14/Sensor-de-Gas/refs/heads/main/preview/image1.png)
+
